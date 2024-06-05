@@ -7,7 +7,7 @@ The Object Size Estimator is a Python-based tool that uses computer vision and N
 
 # Steps Involved 
 
-# Pre-processing the Image:
+# Pre-processing the Image.
 
 Convert the image to grayscale.
 Apply Gaussian blur to reduce noise.
