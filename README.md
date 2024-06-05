@@ -6,7 +6,6 @@ The Object Size Estimator is a Python-based tool that uses computer vision and N
 2. Estimates the size of detected objects.
 
 # Steps Involved 
-The Object Size Estimator performs several key steps to estimate the size of objects in images:
 
 # Pre-processing the Image:
 
