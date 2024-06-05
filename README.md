@@ -23,5 +23,10 @@ Measure dimensions such as width and height.
 Optionally, apply a reference object for real-world size estimation.
 
 # Examples
+Example 1 
 ![Screenshot (8)](https://github.com/Jashwanth-Ram/ObjectSizeEstimator/assets/122851926/e51ddf54-8fa2-4338-bc79-07d8368512ea)
+
+Example 2
+![Screenshot (9)](https://github.com/Jashwanth-Ram/ObjectSizeEstimator/assets/122851926/d8d2c711-d3aa-4ee6-bbc0-b2235a285819)
+
 
