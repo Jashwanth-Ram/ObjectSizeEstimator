@@ -40,6 +40,7 @@ def reorder(myPoints):
     myPointsNew[2] = myPoints[np.argmax(diff)]
     return myPointsNew
 
+
 def warpImg (img,points,w,h,pad=20):
     # print(points)
     points =reorder(points)
@@ -50,5 +51,6 @@ def warpImg (img,points,w,h,pad=20):
     imgWarp = imgWarp[pad:imgWarp.shape[0]-pad,pad:imgWarp.shape[1]-pad]
     return imgWarp
 
+#Finding the distance
 def findDis(pts1,pts2):
     return ((pts2[0]-pts1[0])**2 + (pts2[1]-pts1[1])**2)**0.5
